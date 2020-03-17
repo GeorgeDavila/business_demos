@@ -68,6 +68,8 @@ The above output are the raw outputs given by the Neural Network for these parti
 
 Does tend to plagiarise to varying degrees, the beef emissions writing was plagiarised 6% and the lithium battery oneg was 33% plagiarised, according to plagiarismdetector.net. This is actually all well and good. As I mentioned, this architecture was originally designed for academic and technical writing. We DO NOT want it to get artistic and interpretive with hard data and technical terms, a mantra that largely carries over to business reporting. 
 
+Also tends to trail off-topic towards the end of the writings. The last sentence of the Beef Emissions example starts to get into obesity. It does discuss something about a link between emissions and obesity in the preceding sentences, which is likely why it sees obesity as a natural progression of the writing. This kind of tangential writing can be tampered with some more rule-based methods were this to ever be packaged into a product. Again, this is just the neural architecture at work here, no such rule-based methods applied. 
+
 
 # AI for Phishing Detection
 See complete implementation in the image below
