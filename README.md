@@ -70,6 +70,7 @@ Does tend to plagiarise to varying degrees, the beef emissions writing was plagi
 
 Also tends to trail off-topic towards the end of the writings. The last sentence of the Beef Emissions example starts to get into obesity. It does discuss something about a link between emissions and obesity in the preceding sentences, which is likely why it sees obesity as a natural progression of the writing. This kind of tangential writing can be tampered with some more rule-based methods were this to ever be packaged into a product. Again, this is just the neural architecture at work here, no such rule-based methods applied. 
 
+**Names.** When it comes to names the neural network seems to go a bit wacky. I cannot find a 'Richard Pemberton' who has anything to do with lithium-ion batteries. References to people will likely need to be checked by a rule-based algorithm. 
 
 # AI for Phishing Detection
 See complete implementation in the image below. The 1st email tried is a normal email. The 2nd is spam but not an outright phishing attempt. The 3rd is a blatant phishing and/or scam attempt.
