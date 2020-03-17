@@ -72,7 +72,7 @@ Also tends to trail off-topic towards the end of the writings. The last sentence
 
 
 # AI for Phishing Detection
-See complete implementation in the image below
+See complete implementation in the image below. The 1st email tried is a normal email. The 2nd is spam but not an outright phishing attempt. The 3rd is a blatant phishing and/or scam attempt.
 ![Alt Text](cynet_example1.png)
 
 See quick demo here:
