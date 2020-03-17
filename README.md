@@ -4,7 +4,7 @@ See a quick demo here:
 https://www.youtube.com/watch?v=JfO0KLY_ask
 
 <a href="http://www.youtube.com/watch?v=JfO0KLY_ask
-" target="_blank"><img src="http://img.youtube.com/vi/watch?v=JfO0KLY_ask/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=JfO0KLY_ask.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Here's some samples written entirely by A.I.:**
