@@ -3,6 +3,8 @@
 See a quick demo here:
 https://www.youtube.com/watch?v=JfO0KLY_ask
 
+<iframe width="1129" height="635" src="https://www.youtube.com/embed/JfO0KLY_ask" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Here's some samples written entirely by A.I.:**
 
 ### Sample Text Written entirely by Neural Architecture give the input string 'Lithium Battery Costs'
