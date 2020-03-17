@@ -3,7 +3,9 @@
 See a quick demo here:
 https://www.youtube.com/watch?v=JfO0KLY_ask
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JfO0KLY_ask/0.jpg)](https://www.youtube.com/watch?v=JfO0KLY_ask)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JfO0KLY_ask
+" target="_blank"><img src="http://img.youtube.com/vi/JfO0KLY_ask/0.jpg" 
+alt="Youtube Link" width="240" height="180" border="10" /></a>
 
 **Here's some samples written entirely by A.I.:**
 
