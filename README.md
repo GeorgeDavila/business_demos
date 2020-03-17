@@ -3,7 +3,9 @@
 See a quick demo here:
 https://www.youtube.com/watch?v=JfO0KLY_ask
 
-<iframe width="1129" height="635" src="https://www.youtube.com/embed/JfO0KLY_ask" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?v=JfO0KLY_ask
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=JfO0KLY_ask/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Here's some samples written entirely by A.I.:**
 
