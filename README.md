@@ -1,7 +1,9 @@
 # business_demos
-## AI for Business Writing/Reports 
+# AI for Business Writing/Reports 
 See a quick demo here:
 https://www.youtube.com/watch?v=JfO0KLY_ask
+
+**Here's some samples written entirely by A.I.:**
 
 ### Sample Text Written entirely by Neural Architecture give the input string 'Lithium Battery Costs'
 [Lithium Battery Costs] The US has not yet signed an agreement with Lithium-ion batteries, but its plans are expected to be finalized next year.
@@ -57,13 +59,18 @@ The countries are also urged to set ambitious targets for reducing emissions of 
 
 The study, published in the journal Proceedings of the National Academy of Sciences, found that the proportion of Americans that are overweight or obese was at its highest in nearly half a century, and that
 
+## Discussion
+The above output are the raw outputs given by the Neural Network for these particular instances of inputs. We can see that they both end on incomplete sentences. Obviously this has a simple fix (if output[-1] != '.': keep writing) but I opted to leave the raw output here to get more output data. 
 
-## AI for Phishing Detection
+Does tend to plagiarise to varying degrees, the beef emissions writing was plagiarised 6% and the lithium battery oneg was 33% plagiarised, according to plagiarismdetector.net. This is actually all well and good. As I mentioned, this architecture was originally designed for academic and technical writing. We DO NOT want it to get artistic and interpretive with hard data and technical terms. 
 
+
+# AI for Phishing Detection
+See complete implementation in the image below
 ![Alt Text](cynet_example1.png)
 
 See quick demo here:
 https://www.youtube.com/watch?v=lT959TbcoSA
 
-
-
+## Discussion
+Detects spam & phishing emails reasonably well but certainly needs more refinement before being deployed in any professional capacity. 
