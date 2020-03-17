@@ -9,7 +9,7 @@ alt="Youtube Link" width="240" height="180" border="10" /></a>
 
 **Here's some samples written entirely by A.I.:**
 
-### Sample Text Written entirely by Neural Architecture give the input string 'Lithium Battery Costs'
+### Sample Text Written entirely by Neural Architecture given the input string 'Lithium Battery Costs'
 [Lithium Battery Costs] The US has not yet signed an agreement with Lithium-ion batteries, but its plans are expected to be finalized next year.
 
 The company plans to take lithium-ion batteries with each new generation of batteries that it has developed using a different process, said Richard Pemberton, director of research at Lithium-ion Battery Research at the University of California, Berkeley.
@@ -46,7 +46,7 @@ The US government does not have a policy on the use of lithium-ion batteries.
 
 Lithium-ion batteries can be used 
 
-### Sample Text Written entirely by Neural Architecture give the input string 'Beef Industry Emissions'
+### Sample Text Written entirely by Neural Architecture given the input string 'Beef Industry Emissions'
 [Beef industry emissions] are expected to be up by almost 50% this year, and by 70% in 2015, according to the International Energy Agency. The country is poised to lose more than 5m tonnes of carbon dioxide from its industrial activities and the planet's main source of energy, according to the report.
 
 The report, "Global Emissions from Emissions from the World's Most Hazardous Goods", is based on data from the WHO's annual Global Emissions Report, from 2006 to 2011. It estimates that about 1.2bn tonnes of fresh produce (including meat and seafood) will be lost by 2030.
