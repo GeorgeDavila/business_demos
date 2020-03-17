@@ -59,6 +59,9 @@ The study, published in the journal Proceedings of the National Academy of Scien
 
 
 ## AI for Phishing Detection
+
+![Alt Text](cynet_example1.png)
+
 See quick demo here:
 https://www.youtube.com/watch?v=lT959TbcoSA
 
