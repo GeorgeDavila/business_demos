@@ -66,7 +66,7 @@ The study, published in the journal Proceedings of the National Academy of Scien
 ## Discussion
 The above output are the raw outputs given by the Neural Network for these particular instances of inputs. We can see that they both end on incomplete sentences. Obviously this has a simple fix (if output[-1] != '.': keep writing) but I opted to leave the raw output here to get more output data. 
 
-Does tend to plagiarise to varying degrees, the beef emissions writing was plagiarised 6% and the lithium battery oneg was 33% plagiarised, according to plagiarismdetector.net. This is actually all well and good. As I mentioned, this architecture was originally designed for academic and technical writing. We DO NOT want it to get artistic and interpretive with hard data and technical terms. 
+Does tend to plagiarise to varying degrees, the beef emissions writing was plagiarised 6% and the lithium battery oneg was 33% plagiarised, according to plagiarismdetector.net. This is actually all well and good. As I mentioned, this architecture was originally designed for academic and technical writing. We DO NOT want it to get artistic and interpretive with hard data and technical terms, a mantra that largely carries over to business reporting. 
 
 
 # AI for Phishing Detection
@@ -75,6 +75,10 @@ See complete implementation in the image below
 
 See quick demo here:
 https://www.youtube.com/watch?v=lT959TbcoSA
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lT959TbcoSA
+" target="_blank"><img src="http://img.youtube.com/vi/lT959TbcoSA/0.jpg" 
+alt="Youtube Link" width="240" height="180" border="10" /></a>
 
 ## Discussion
 Detects spam & phishing emails reasonably well but certainly needs more refinement before being deployed in any professional capacity. 
